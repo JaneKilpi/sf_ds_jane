@@ -62,6 +62,10 @@
     - Исследование зависимостей в данных
     - Очистка данных
     - Финальное оформление проекта на GitHub
+    
+    Из-за проблем с визуализацией графиков на GitHub, все графики проекта были загружены на Google drive и доступны по ссылке:
+    *https://drive.google.com/drive/folders/1ndWr0e0VHWYmdGS3MIB2TL9nLiPgfOqE?usp=sharing*
+    
 
 :arrow_up:[к оглавлению](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Оглавление)
 
