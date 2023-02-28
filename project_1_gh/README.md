@@ -44,8 +44,7 @@
     Данные охватывают период с 10 Апреля 2018 по 15 Мая 2019 по всем городам РФ.
     Содержит около 45К записей
     Данный файл доступен для скачивания по ссылке:
-    
-  ### https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+## https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
 
     Файл ExchangeRates.csv
 
@@ -64,11 +63,9 @@
     - Очистка данных
     - Финальное оформление проекта на GitHub
     
-    Из-за проблем с визуализацией графиков на GitHub, все графики проекта были загружены на Google drive и доступны по ссылке:
+    Из-за проблем с визуализацией графиков на GitHub, все графики проекта были загружены на Google drive и доступны по ссылке:  
+  ## https://drive.google.com/drive/folders/1ndWr0e0VHWYmdGS3MIB2TL9nLiPgfOqE?usp=sharing
     
-  ### https://drive.google.com/drive/folders/1ndWr0e0VHWYmdGS3MIB2TL9nLiPgfOqE?usp=sharing
-    
-
 :arrow_up:[к оглавлению](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Оглавление)
 
 ## Результаты
