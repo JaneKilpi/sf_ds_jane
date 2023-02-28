@@ -2,10 +2,14 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Описание-проекта) 
+[1. Описание проекта](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Описание-проекта)
+
 [2. Какую задачу решаем?](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Какую-задачу-решаем)
+
 [3. Информация о данных](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Этапы-работы-над-проектом)
+
 [5. Результаты](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Результаты)
 
 ## Описание проекта
@@ -15,10 +19,10 @@
 ## Какую задачу решаем?
 
 Задача проекта проявить себя в следующих областях:
-    - базовый анализ структуры данных,
-    - преобразование данных,
-    - исследование и очистка данных,
-    - построение графиков
+- базовый анализ структуры данных,
+- преобразование данных,
+- исследование и очистка данных,
+- построение графиков
 
 используя только:
 
@@ -40,7 +44,7 @@
     Данные охватывают период с 10 Апреля 2018 по 15 Мая 2019 по всем городам РФ.
     Содержит около 45К записей
     Данный файл доступен для скачивания по ссылке:
-    https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+    *https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing*
 
     Файл ExchangeRates.csv
 
