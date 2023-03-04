@@ -44,12 +44,12 @@
     Данные охватывают период с 10 Апреля 2018 по 15 Мая 2019 по всем городам РФ.
     Содержит около 45К записей
     Данный файл доступен для скачивания по ссылке:
-### https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+#### https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
     Файл ExchangeRates.csv
 
     Содержит данные о всех кросс курсах валют, встречающихся в разделе ожидаемая зарплата, за весь период данных о вакансиях
-    Используется в процессе преобразования данных с целью привести зарплату к одной валюте (рублям)
-    Данн 
+    Используется в процессе преобразования данных с целью привести зарплату к одной валюте (рублям).
+    Данный файл находится в папке data. 
 :arrow_up:[к оглавлению](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Оглавление)
 
 ## Этапы работы над проектом
@@ -61,7 +61,7 @@
     - Финальное оформление проекта на GitHub
     
     Из-за проблем с визуализацией графиков на GitHub, все графики проекта были загружены на Google drive и доступны по ссылке:  
-### https://drive.google.com/drive/folders/1ndWr0e0VHWYmdGS3MIB2TL9nLiPgfOqE?usp=sharing
+#### https://drive.google.com/drive/folders/1ndWr0e0VHWYmdGS3MIB2TL9nLiPgfOqE?usp=sharing
 :arrow_up:[к оглавлению](https://github.com/JaneKilpi/sf_ds_jane/tree/main/project_1_gh/README.md#Оглавление)
 
 ## Результаты
